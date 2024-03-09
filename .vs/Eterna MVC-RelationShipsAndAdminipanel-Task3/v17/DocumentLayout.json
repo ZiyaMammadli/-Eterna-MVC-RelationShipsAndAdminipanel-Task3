@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|c:\\users\\user\\source\\repos\\eterna mvc-relationshipsandadminipanel-task3\\eterna mvc-connectiondbcontext-task2\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|c:\\users\\user\\source\\repos\\eterna mvc-relationshipsandadminipanel-task3\\eterna mvc-connectiondbcontext-task2\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|c:\\users\\user\\source\\repos\\eterna mvc-relationshipsandadminipanel-task3\\eterna mvc-connectiondbcontext-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|c:\\users\\user\\source\\repos\\eterna mvc-relationshipsandadminipanel-task3\\eterna mvc-connectiondbcontext-task2\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-RelationShipsAndAdminipanel-Task3.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T22:16:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T13:28:39.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T07:58:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:53:56.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
