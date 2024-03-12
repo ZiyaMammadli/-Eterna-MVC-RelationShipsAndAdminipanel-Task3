@@ -20,8 +20,8 @@ namespace Eterna_MVC_ConnectionDBcontext_task2.Models
         [Required]
         [StringLength(250)]
         public string Description { get; set; }
-        public Category Category { get; set; }
-        public ICollection<ProductImage> Images { get; set; }
+        public Category? Category { get; set; }
+        public ICollection<ProductImage>? Images { get; set; }
         
     }
 }

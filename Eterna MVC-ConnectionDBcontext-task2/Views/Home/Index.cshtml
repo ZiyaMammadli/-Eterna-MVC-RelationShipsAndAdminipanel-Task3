@@ -50,15 +50,14 @@
             <div class="row">
                 @foreach (var featured in Model.features)
                 {
-                    <div class="col-lg-4">
+                    <div class="col-lg-4" style="margin-top:24px">
                         <div class="icon-box">
                             <i class="@featured.Icon"></i>
                             <h3><a href="">@featured.Title</a></h3>
                             <p>@featured.Description</p>
                         </div>
                     </div>
-                }
-                
+                }               
             </div>
 
         </div>

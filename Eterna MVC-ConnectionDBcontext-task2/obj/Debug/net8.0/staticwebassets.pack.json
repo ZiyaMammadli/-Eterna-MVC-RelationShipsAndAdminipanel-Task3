@@ -181,6 +181,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
+      "Id": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\wwwroot\\admin\\assets\\js\\DeleteJs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\DeleteJs.js"
+    },
+    {
       "Id": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\wwwroot\\admin\\assets\\js\\config.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
     },

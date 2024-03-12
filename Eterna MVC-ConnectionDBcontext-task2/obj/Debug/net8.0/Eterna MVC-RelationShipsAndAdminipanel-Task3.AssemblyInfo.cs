@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eterna MVC-RelationShipsAndAdminipanel-Task3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2945ef98d92a2a5a139f808373cb5ebf75d74741")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eterna MVC-RelationShipsAndAdminipanel-Task3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eterna MVC-RelationShipsAndAdminipanel-Task3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

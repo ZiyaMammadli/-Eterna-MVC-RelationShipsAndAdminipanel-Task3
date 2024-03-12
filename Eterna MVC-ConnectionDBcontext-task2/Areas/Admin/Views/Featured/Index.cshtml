@@ -1,0 +1,23 @@
+﻿@model List<Featured>
+
+<div class="container">
+    <div class="row">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-top:20px;border:1px solid grey;padding:20px">
+            <h3 style="margin-bottom:0">Features</h3>
+            <a class="btn btn-success"asp-controller="featured"asp-action="create">Create</a>
+        </div>
+        @foreach (var featured in Model)
+        {
+            <div class="col-lg-4">
+                <div class="icon-box" style="border:1px solid grey;padding:20px;margin-top:15px">
+                    <i class="@featured.Icon"></i>
+                    <h3><a href="">@featured.Title</a></h3>
+                    <p>@featured.Description</p>
+                    <a style="color:white" class="btn btn-warning"asp-controller="featured"asp-action="update"asp-route-id="@featured.Id">Update</a>
+                    <a style="color:white" class="btn btn-danger"asp-controller="featured"asp-action="delete"asp-route-id="@featured.Id">Delete</a>
+                </div>
+            </div>
+        }       
+    </div>
+
+</div>

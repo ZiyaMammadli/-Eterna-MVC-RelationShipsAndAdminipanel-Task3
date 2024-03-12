@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bJPkir7jlFV3P6wlRCedeKNsjZ0U9ePr/xQdpwoDfNw=",
+  "Hash": "1FN6jmwHvbXVrW+8H1PMRY2ZKoMl6+fisTD4Lgla6l0=",
   "Source": "Eterna MVC-RelationShipsAndAdminipanel-Task3",
   "BasePath": "_content/Eterna MVC-RelationShipsAndAdminipanel-Task3",
   "Mode": "Default",
@@ -908,6 +908,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\wwwroot\\admin\\assets\\js\\DeleteJs.js",
+      "SourceId": "Eterna MVC-RelationShipsAndAdminipanel-Task3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\wwwroot\\",
+      "BasePath": "_content/Eterna MVC-RelationShipsAndAdminipanel-Task3",
+      "RelativePath": "admin/assets/js/DeleteJs.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\DeleteJs.js"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\Eterna MVC-RelationShipsAndAdminipanel-Task3\\Eterna MVC-ConnectionDBcontext-task2\\wwwroot\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js",

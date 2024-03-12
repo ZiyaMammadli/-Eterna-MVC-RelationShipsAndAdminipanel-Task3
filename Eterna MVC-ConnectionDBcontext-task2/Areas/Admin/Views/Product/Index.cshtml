@@ -1,0 +1,51 @@
+﻿@model List<Product>;
+@{
+    int counter = 0;
+}
+<div class="container">
+    <div class="row">
+        <div style="display:flex;justify-content:space-between;align-items:center;align-content:center;margin-top:20px;border:1px solid grey;padding:10px">
+            <h3 style="margin-bottom:0">Sliders</h3>
+            <a class="btn-success" style="padding:10px;align-items:center;border-radius:10px" asp-controller="product" asp-action="create">Create</a>
+        </div>
+        <table class="table table-striped" style="margin-top:40px;border:1px solid grey">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Client</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Category Name</th>
+                    <th scope="col">ProjectUrl</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    counter++;
+                    <tr>
+                        <th scope="row">@counter</th>
+                        <td>@product.Name</td>
+                        <td>@product.Client</td>
+                        <td>@product.Title</td>
+                        <td>@product.Description</td>
+                        <td>@product.Category.Name</td>
+                        <td>@product.ProjectUrl</td>
+                        <td>
+                            <img style="width:135px" src="@product.Images.FirstOrDefault()?.ImageUrl" alt="Alternate Text" />
+                        </td>
+                        <td>
+                            <div style="display:flex;">
+                                <a style="margin-right:10px;color:white" class="btn btn-warning" asp-controller="product" asp-action="update" asp-route-id="@product.Id">Update</a>
+                                <a style="color:white" class="btn btn-danger deleteButton" asp-controller="product" asp-action="delete" asp-route-id="@product.Id">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
